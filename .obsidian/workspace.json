@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "11ecc103309ceffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a5c6d700c2af7c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1f006664b315c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Security Domains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security Domains"
+            }
+          },
+          {
+            "id": "89c8ff27bfe3e2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Frameworks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frameworks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "657f697c8816b2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b4db564c544ee13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224db6a0f68e3042",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "550707d92201d772",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "42f95685e8b0ac98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ced3eddc45d8b0a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "387c0beb8f04162d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e79fa4a66a095ec7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Security Domains.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Security Domains"
+            }
+          },
+          {
+            "id": "88d920c8bc239a7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/Security Domains.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Security Domains"
+            }
+          },
+          {
+            "id": "65bc883cf7dc9b56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81ff4ed7ebdae6d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts/Security Domains.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Security Domains"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d1f006664b315c5f",
+  "lastOpenFiles": [
+    "Concepts/Frameworks.md",
+    "Concepts/Risks.md",
+    "Concepts/Threats.md",
+    "Concepts/Types of Attacks.md",
+    "Concepts/Vulnerabilties.md",
+    "Ethics.md",
+    "Concepts/Security Domains.md",
+    "Frameworks/NIST - RMF.md",
+    "Glossary.md",
+    "To Read.md",
+    "Frameworks",
+    "Tools",
+    "Concepts",
+    "Welcome.md"
+  ]
+}

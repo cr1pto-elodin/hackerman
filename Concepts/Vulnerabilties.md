@@ -1,0 +1,8 @@
+A weakness that can be exploited by a [[Threats|threat]]. That's why organizations must inspect regularly the vulnerability in its systems. Some vulnerabilities includes:
+
+* **[ProxyLogon](https://proxylogon.com/)**: A pre-authenticated vulnerability that affects the [Microsoft Exchange](https://pt.wikipedia.org/wiki/Microsoft_Exchange_Server) server. This means that a threat agente can finish the process of authentication of a user to implant malicious code in a remote server.
+* **[ZeroLogon](https://www.trendmicro.com/pt_br/what-is/zerologon.html)**: Vulnerability in the [Netlogon](https://www.manageengine.com/products/active-directory-audit/learn/what-is-netlogon.html) authentication protocol.
+* **Log4Shell**: Allows attackers to execute Java code in the computer of someone else or leak confidential information. It allows a remote attack that will grant control over devices connected to the internet and execute malicious code.
+* **PetitPotam**: Affects the [NLTM](https://pt.wikipedia.org/wiki/Microsoft_Exchange_Server) (New Technology LAN Manager) of Windows. It's a theft technique that allows that a LAN based attack starts an authentication request.
+* **Failures in the generation of logs and monitoring of security**: With scarce recourses to the generation of logs and monitoring, attackers can exploit vulnerabilities without the knowledge of the organization.
+* **Faking a request from the server side**: Accessible only to attackers that manipulate an app from the server side and can update resources from the backend. It can also allow threat agents to steal data.
