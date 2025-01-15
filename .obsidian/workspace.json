@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Frameworks.md",
+                "file": "Concepts/Security Audits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frameworks"
+              "title": "Security Audits"
             }
           },
           {
@@ -179,14 +179,15 @@
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
     "Concepts/Risks.md",
-    "Concepts/Types of Attacks.md",
-    "Concepts/Vulnerabilties.md",
+    "Concepts/Security Audits.md",
+    "Concepts/Frameworks.md",
     "Concepts/Threats.md",
+    "Concepts/Vulnerabilties.md",
+    "Concepts/Types of Attacks.md",
     "Concepts/Security Domains.md",
     "Frameworks/NIST - CSF.md",
     "Frameworks/NIST Frameworks.md",
     "Frameworks/NIST - RMF.md",
-    "Concepts/Frameworks.md",
     "Ethics.md",
     "Glossary.md",
     "To Read.md",

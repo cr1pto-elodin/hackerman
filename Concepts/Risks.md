@@ -30,3 +30,18 @@ They categorize the threats as:
 8. **Software and Data Integrity Failures**
 9. **Security Logging and Monitoring Failures**
 10. **Server-Side Request Forgery (SSRF)**
+
+# OWASP
+
+This stands for Open Worldwide Application Security Project. The OWASP project has principles that aim to protect an application. They can be listed as:
+
+* **Minimize attack surface area** -> Surface Area means all the vulnerabilities a threat actor can exploit.
+* **Principle of least privilege** -> The users can only have the privileges that they use on a daily basis
+* **Defense in Depth** -> There has to be many security controls that mitigate risks and threats.
+* **Separation of duties** -> Critical tasks need to be executed by the bigger number of people as possible.
+* **Keep security simple** -> The phrase speaks for itself.
+* **Fix security issues correctly** -> When breaches occurs, identify the cause, contain the damage, identify the vulnerabilities and do tests that allow to measure if the correction was really well done.
+* **Establish secure patterns** -> The ideal security state for an application is the ideal state for the users.
+* **Fail with safety** -> When a control fails or is interrupted, it needs to do it with the safest option. For example, if a firewall fails, it must simply close all opened connections and block new ones.
+* **Don't trust third parties** -> When dealing with another party, such as another company or a consultant, you always need to assume that the systems used by them are not safe.
+* **Don't gatekeep** -> The security of a system must not be based on keeping details hidden.
