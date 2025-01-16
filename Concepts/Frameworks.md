@@ -1,4 +1,4 @@
-Frameworks are guidelines that are used by a security team for building plans to mitigate risk and threats to data and privacy. It's a structure approach to implement the security life cycle. Also, this defines how a company manage risks, follow stablished guidelines and meet mandatory compliance, like laws.
+Frameworks are guidelines that are used by a security team for building plans to mitigate risk and threats to data and privacy. It's a structure approach to implement the security life cycle. Also, this defines how a company manage risks, follow established guidelines and meet mandatory compliance, like laws.
 
 Security frameworks purposes can be listed as:
 

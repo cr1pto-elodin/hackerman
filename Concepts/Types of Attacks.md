@@ -8,10 +8,10 @@ First of all lest sumarize: [[#Phishing|Phishing]], [[#Malware|Malware]] and [[#
 	channels to trick individuals and make them reveal confidential
 	data or install malwares. Can be done as:
 
-* **Business-to-business Compromise (BEC)**: An agent sends an email that seems to be from a trustful source, pretending to use the informations to a good and useful purpose. Usually to gain access to financial informations.
+* **Business-to-business Compromise (BEC)**: An agent sends an email that seems to be from a trustful source, pretending to use the informantions to a good and useful purpose. Usually to gain access to financial informantions.
 * **Spear phishing**: Attack that happens when an agent sends an email pretending to be a trustful source and targets one user or a group of users.
 * **Whaling**: A type of spear phishing. The agents targets high executives from a company to obtain access to confidential data.
-* **Vishing**: The exploit of eletronic communication using voice to obtain confidential data or impersonate someone that can be trusted.
+* **Vishing**: The exploit of electronic communication using voice to obtain confidential data or impersonate someone that can be trusted.
 * **Smishing**: Similar to vishing, but using text messages instead.
 
 # Malware:
