@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Security Audits.md",
+                "file": "Tools/SIEM Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Audits"
+              "title": "SIEM Tools"
             }
           },
           {
@@ -178,18 +178,23 @@
   },
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
-    "Concepts/Risks.md",
-    "Concepts/Security Audits.md",
-    "Concepts/Frameworks.md",
-    "Concepts/Threats.md",
-    "Concepts/Vulnerabilties.md",
-    "Concepts/Types of Attacks.md",
-    "Concepts/Security Domains.md",
     "Frameworks/NIST - CSF.md",
+    "Tools/SIEM Tools.md",
+    "Tools/SIEM tools",
+    "Concepts/Security Audits.md",
+    "Concepts/Security Domains.md",
+    "Concepts/Risks.md",
+    "Concepts/Threats.md",
+    "Concepts/Types of Attacks.md",
+    "Concepts/Vulnerabilties.md",
     "Frameworks/NIST Frameworks.md",
     "Frameworks/NIST - RMF.md",
-    "Ethics.md",
     "Glossary.md",
+    "Ethics.md",
+    "Concepts/Frameworks.md",
+    "Scripts/keylogger.py",
+    "Scripts",
+    "Pasta Sem Título",
     "To Read.md",
     "Frameworks",
     "Tools",
