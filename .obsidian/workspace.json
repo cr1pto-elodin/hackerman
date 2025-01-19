@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Playbooks.md",
+                "file": "Networks/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Playbooks"
+              "title": "Cloud Computing"
             }
           }
         ]
@@ -164,6 +164,10 @@
   },
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
+    "Networks/Network.md",
+    "Networks/Cloud Computing.md",
+    "Tools/Playbooks.md",
+    "Networks",
     "Concepts/Frameworks.md",
     "Concepts/Types of Attacks.md",
     "Concepts/Threats.md",
@@ -171,7 +175,6 @@
     "Concepts/Vulnerabilties.md",
     "Ethics.md",
     "Glossary.md",
-    "Tools/Playbooks.md",
     "Frameworks/NIST Frameworks.md",
     "Tools/SIEM Tools.md",
     "Frameworks/NIST - CSF.md",
