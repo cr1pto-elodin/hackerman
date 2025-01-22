@@ -38,7 +38,7 @@ Security controls are safeguards to reduce specific security risks. Security con
 
 Controls within cybersecurity can be grouped into three main categories:
 
-1. **Administrative/Managerial controls**: address the human component of cybersecurity. These controls include policies and procedures that define ow an organization manages data and clearly defines employee responsibilities, including how they will protect the organization.
+1. **Administrative/Managerial controls**: address the human component of cybersecurity. These controls include policies and procedures that define how an organization manages data and clearly defines employee responsibilities, including how they will protect the organization.
 2. **Technical controls**: consists in software based solutions such as firewalls, intrusion detection systems (IDS), antivirus (AV) products, encryption, etc.
 3. **Physical controls**: these are the ones that treat physical access and permission to be in a certain space or to access a certain physical asset, such as a mainframe, for example. These controls can be listed as CCTV systems or even cabinet locks.
 

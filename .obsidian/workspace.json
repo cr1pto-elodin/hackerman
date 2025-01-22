@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Cloud Computing.md",
+                "file": "Networks/Protocols/TCP IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Computing"
+              "title": "TCP IP"
             }
           }
         ]
@@ -164,14 +164,17 @@
   },
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
-    "Networks/Network.md",
+    "Concepts/Security Domains.md",
+    "Networks/Protocols/TCP IP.md",
+    "Networks/Protocols",
+    "Concepts/Frameworks.md",
+    "Concepts/Risks.md",
     "Networks/Cloud Computing.md",
+    "Networks/Network.md",
     "Tools/Playbooks.md",
     "Networks",
-    "Concepts/Frameworks.md",
     "Concepts/Types of Attacks.md",
     "Concepts/Threats.md",
-    "Concepts/Security Domains.md",
     "Concepts/Vulnerabilties.md",
     "Ethics.md",
     "Glossary.md",
@@ -180,7 +183,6 @@
     "Frameworks/NIST - CSF.md",
     "Tools/SIEM tools",
     "Concepts/Security Audits.md",
-    "Concepts/Risks.md",
     "Frameworks/NIST - RMF.md",
     "Scripts/keylogger.py",
     "Scripts",
