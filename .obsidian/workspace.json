@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Models/OSI Model.md",
+                "file": "Networks/Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI Model"
+              "title": "Network"
             }
           }
         ]
@@ -164,15 +164,16 @@
   },
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
-    "Networks/Models/TCP IP.md",
     "Networks/Models/OSI Model.md",
+    "Networks/Models/TCP IP.md",
+    "Networks/Network.md",
+    "Networks/List of Protocols.md",
+    "Networks/Cloud Computing.md",
     "Networks/Models",
     "Concepts/Security Domains.md",
     "Networks/Protocols",
     "Concepts/Frameworks.md",
     "Concepts/Risks.md",
-    "Networks/Cloud Computing.md",
-    "Networks/Network.md",
     "Tools/Playbooks.md",
     "Networks",
     "Concepts/Types of Attacks.md",
