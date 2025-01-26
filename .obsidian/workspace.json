@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Types of Attacks.md",
+                "file": "Tools/List of Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types of Attacks"
+              "title": "List of Tools"
             }
           }
         ]
@@ -165,8 +165,13 @@
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
     "Tools/Network Protocol Analyzer.md",
-    "Pasted image 20250124172443.png",
+    "Tools/List of Tools.md",
+    "Tools/Playbooks.md",
+    "Tools/SIEM Tools.md",
+    "Concepts/Security Hardening.md",
     "Concepts/Types of Attacks.md",
+    "Networks/Security Hardening",
+    "Pasted image 20250124172443.png",
     "Networks/Network.md",
     "Networks/Models/OSI Model.md",
     "Networks/Models/TCP IP.md",
@@ -177,14 +182,12 @@
     "Networks/Protocols",
     "Concepts/Frameworks.md",
     "Concepts/Risks.md",
-    "Tools/Playbooks.md",
     "Networks",
     "Concepts/Threats.md",
     "Concepts/Vulnerabilties.md",
     "Ethics.md",
     "Glossary.md",
     "Frameworks/NIST Frameworks.md",
-    "Tools/SIEM Tools.md",
     "Frameworks/NIST - CSF.md",
     "Tools/SIEM tools",
     "Concepts/Security Audits.md",
@@ -195,7 +198,6 @@
     "To Read.md",
     "Frameworks",
     "Tools",
-    "Concepts",
     "Welcome.md"
   ]
 }

@@ -8,7 +8,7 @@ First of all lest sumarize: [[#Phishing|Phishing]], [[#Malware|Malware]] and [[#
 	channels to trick individuals and make them reveal confidential
 	data or install malwares. Can be done as:
 
-* **Business-to-business Compromise (BEC)**: An agent sends an email that seems to be from a trustful source, pretending to use the informantions to a good and useful purpose. Usually to gain access to financial informantions.
+* **Business-to-business Compromise (BEC)**: An agent sends an email that seems to be from a trustful source, pretending to use the informations to a good and useful purpose. Usually to gain access to financial informations.
 * **Spear phishing**: Attack that happens when an agent sends an email pretending to be a trustful source and targets one user or a group of users.
 * **Whaling**: A type of spear phishing. The agents targets high executives from a company to obtain access to confidential data.
 * **Vishing**: The exploit of electronic communication using voice to obtain confidential data or impersonate someone that can be trusted.
@@ -62,4 +62,54 @@ For example, an attack can intercept a banking transfer and change the account t
 Backdoors are weak points left intentionally by developers or the admin of a system/network, that won't go into the usual flow of authentication. The backdoors have the goal to help devs/admins to do the solving of problems, without bureaucratic barriers. However, the backdoors can be installed by attackers after compromising a company, with the goal to maintain a previous access permanently.
 
 After accessing a backdoor, the threat agent can cause damages such as: install malwares, do a **Denial of Service Attack**, steal private informations or can change the security configurations of a system with the main objective of leaving breaches for another attacks.
+
+## Denial of Service (DoS) Attack
+
+It's an attack that targets a network or server and floods it with network traffic. The main goal of this attack that it disrupts business operations in an organization.
+
+- **Distributed denial of service (DDoS) attack**: A type of DoS attack that uses multiple devices or servers in different locations to flood the target network with unwanted traffic.
+
+Bellow there are three network level DoS attacks:
+
+1. **SYN (synchronize) flood attack**: A type of attack that simulates a TCP handshake connection and floods a server with SYN packets.
+2. **Internet Control Message Protocol (ICMP) flood**: A type of attack performed by an attacker repeatedly sending ICMP packets to a network server.
+3. **Ping of death**: A type of attack caused when a hacker pings a system by sending it an oversized ICMP packet that's bigger than 64KB.
+
+## Packet interception
+
+**Packet sniffing** is a practice that captures and intercepts data packets in a network.
+
+A NIC is the hardware part that connects the device to a network. This device reads the data transmission, and if it contains the MAC address of the device, accepts the packet and sends it to the device to process the informations based on the protocol. However, a NIC can be in a malicious mode, that will allow it to listen to all traffic in the network. 
+
+Threat actos can use softwares, such as WireShark, to capture data in a private network and store them for later use. With this, they can use information for personal gain. However, they can use the IP and MAC address of an authenticated user of a private network to do a **IP spoofing**.
+
+### IP spoofing
+
+After the interception of data packets in a network, the threat actor can disguise himself with the IP and MAC addresses captured and authenticated, to realize this attack. The firewalls can avoid spoofing attacks by setting rules to refuse packets from IPs not authorized and suspicious traffic.
+
+#### Types of attacks:
+
+##### On-Path Attack
+
+This attack happens when a hacker intercepts communication between two devices or servers that have a trusted connection. The transmission between these devices can have valuable information, like usernames and passwords, that the threat actor can collect. 
+
+Sometimes this attack is called **man-in-the-middle attack**, because the hacker is hiding between two trustable parts.
+
+This information intercepted can make a DNS request. If a threat actor can intercept a transmission that contains a DNS search, they can make a spoofing DNS response and redirect the device to a domain with a different IP address, maybe one that contains malicious codes or other threats.
+
+The simplest and most important way is to cryptograph data in transit, using TLS, for example, or even a [[Network#Virtual Private Networks (VPNs)|VPN]].
+
+##### Smurf attack
+
+A **smurf attack** happens when a threat agent discover the IP address of an authenticated user and floods it with packets. When the spoofing packet reaches the address of transmission, it's sent to all devices and servers in the network.
+
+This type of attack is the combination between **spoofing attack** and [[#Denial of Service (DoS) Attack|DoS]] attack to flood the target network. For example, a spoofing packet can include a a ICMP ping. ICMP protocol is used to solve problems in a network, but if too many ICMP messages are transmitted, the echo answers will overflow the servers and they'll shut down.
+
+## Brute Force Attacks
+
+This kind of attack is a process of trial and error to find private informations.
+These are the types that can be done:
+
+1. **Simple Brute Force**: This is a process where the attackers try to guess the credentials of a user.
+2. **Dictionary attacks**: The attackers can use a list of common passwords and credentials stolen from other attacks.
 
