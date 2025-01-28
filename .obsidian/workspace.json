@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Concepts.md",
+                "file": "Concepts/CIA Scope/Assets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concepts"
+              "title": "Assets"
             }
           }
         ]
@@ -164,13 +164,18 @@
   },
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
+    "Concepts/Frameworks.md",
+    "Concepts/CIA Scope/Assets.md",
+    "Concepts/OS.md",
+    "Concepts/Security",
+    "Networks/Protocols",
+    "Concepts/CIA Scope",
     "Tools/List of Tools.md",
-    "OS/Concepts.md",
     "OS",
     "Tools/Network Protocol Analyzer.md",
     "Tools/Playbooks.md",
     "Tools/SIEM Tools.md",
-    "Concepts/Security Hardening.md",
+    "Concepts/Security/Security Hardening.md",
     "Concepts/Types of Attacks.md",
     "Networks/Security Hardening",
     "Pasted image 20250124172443.png",
@@ -180,25 +185,21 @@
     "Networks/List of Protocols.md",
     "Networks/Cloud Computing.md",
     "Networks/Models",
-    "Concepts/Security Domains.md",
-    "Networks/Protocols",
-    "Concepts/Frameworks.md",
-    "Concepts/Risks.md",
+    "Concepts/Security/Security Domains.md",
+    "Concepts/CIA Scope/Risks.md",
     "Networks",
-    "Concepts/Threats.md",
-    "Concepts/Vulnerabilties.md",
+    "Concepts/CIA Scope/Threats.md",
+    "Concepts/CIA Scope/Vulnerabilties.md",
     "Ethics.md",
     "Glossary.md",
     "Frameworks/NIST Frameworks.md",
     "Frameworks/NIST - CSF.md",
     "Tools/SIEM tools",
-    "Concepts/Security Audits.md",
+    "Concepts/Security/Security Audits.md",
     "Frameworks/NIST - RMF.md",
     "Scripts/keylogger.py",
     "Scripts",
-    "Pasta Sem Título",
     "To Read.md",
-    "Frameworks",
     "Welcome.md"
   ]
 }
