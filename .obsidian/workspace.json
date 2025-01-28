@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/List of Tools.md",
+                "file": "OS/Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of Tools"
+              "title": "Concepts"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
-    "Tools/Network Protocol Analyzer.md",
     "Tools/List of Tools.md",
+    "OS/Concepts.md",
+    "OS",
+    "Tools/Network Protocol Analyzer.md",
     "Tools/Playbooks.md",
     "Tools/SIEM Tools.md",
     "Concepts/Security Hardening.md",
@@ -197,7 +199,6 @@
     "Pasta Sem Título",
     "To Read.md",
     "Frameworks",
-    "Tools",
     "Welcome.md"
   ]
 }
