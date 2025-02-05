@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/CIA Scope/Assets.md",
+                "file": "Concepts/Security/Security of Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assets"
+              "title": "Security of Data"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,8 +165,11 @@
   },
   "active": "d1f006664b315c5f",
   "lastOpenFiles": [
-    "Concepts/Frameworks.md",
+    "Glossary.md",
+    "Concepts/Security/Security of Data.md",
+    "Concepts/CIA Scope/Risks.md",
     "Concepts/CIA Scope/Assets.md",
+    "Concepts/Frameworks.md",
     "Concepts/OS.md",
     "Concepts/Security",
     "Networks/Protocols",
@@ -186,12 +190,10 @@
     "Networks/Cloud Computing.md",
     "Networks/Models",
     "Concepts/Security/Security Domains.md",
-    "Concepts/CIA Scope/Risks.md",
     "Networks",
     "Concepts/CIA Scope/Threats.md",
     "Concepts/CIA Scope/Vulnerabilties.md",
     "Ethics.md",
-    "Glossary.md",
     "Frameworks/NIST Frameworks.md",
     "Frameworks/NIST - CSF.md",
     "Tools/SIEM tools",
@@ -199,7 +201,6 @@
     "Frameworks/NIST - RMF.md",
     "Scripts/keylogger.py",
     "Scripts",
-    "To Read.md",
-    "Welcome.md"
+    "To Read.md"
   ]
 }

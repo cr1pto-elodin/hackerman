@@ -14,6 +14,12 @@ Risks also can be ranked as:
 * **Medium-risk asset**: Information that's not available to the public and may cause some damage to the organization's finances, reputation, or ongoing operations.
 * **High-risk asset**: Information protected by regulations or laws, which if compromised would have a severe negative impact on an organization's finance, ongoing operations or reputation.
 
+Also, there are the following types of risks:
+
+- Damage
+- Disclosure
+- Loss of Information
+
 # Web Risks
 
 The [OWASP](https://owasp.org/www-project-top-ten/) publish and lists the most critical risks to web applications. They have, also, trainings based on these types of risks, that emulates real life scenarios such as websites like [JuiceShop](https://owasp.org/www-project-juice-shop/).
